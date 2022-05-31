@@ -94,14 +94,12 @@ your challenge.
 
 Here are some technologies we are more familiar with:
 
-* Python
-* JavaScript
-* Ruby
+* TypeScript
 * PHP
+* Python
 * Go
-* C++
-* Haskell
 * Java
+* C#
 
 You are also free to use any web framework. If you choose to use a framework
 that results in boilerplate code in the repository, please detail in your
